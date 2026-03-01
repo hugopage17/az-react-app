@@ -16,7 +16,8 @@ function App() {
                     <img src={reactLogo} className="logo react" alt="React logo" />
                 </a>
             </div>
-            <h1>Vite + React + Azure</h1>
+            <h1>Vite + React + Typescript + Azure</h1>
+            <p>This react app is hosted in Azure static web apps</p>
             <div className="card">
                 <button onClick={() => setCount((count) => count + 1)}>
                     count is {count}
